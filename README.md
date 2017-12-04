@@ -8,9 +8,9 @@
 
 • آموزش نصب :
 
-`git clone https://github.com/ExtraTabTeam/ExtraTab-V2.git`
+`git clone https://github.com/mojialoneking/sarzminlinm.git`
 
-`cd ExtraTab-V2`
+`cd sarzminlink`
 
 `chmod +x launch.sh`
 
