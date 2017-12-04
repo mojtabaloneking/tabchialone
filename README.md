@@ -22,7 +22,7 @@
 
 • شماره ربات باید بدون فاصله و با کد کشوری باشد .
 
-screen ./launch.sh auto
+`screen ./launch.sh auto`
 
 • تمام •
 
